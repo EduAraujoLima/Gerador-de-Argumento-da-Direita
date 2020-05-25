@@ -26,7 +26,7 @@ function RetornaDataHoraAtual() {
   return localdate;
 }
 
-app.listen(80, function () {
+app.listen(3000, function () {
   console.log('Funcionando');
 });
 
